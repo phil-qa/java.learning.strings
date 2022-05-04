@@ -1,0 +1,3 @@
+The string is a datatype in Java, it's not a primitive type it is actually a class but it is easier to use that a regular class. Technically it's limited by memory or the value of MAX_VALUE of an int (2.14Bn) 
+
+Strings are immutable
